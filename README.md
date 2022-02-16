@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mostofa Reza</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
+- 🌱 I’m currently learning **Typescript and Redux.**
+
+- 👨‍💻 All of my projects are available at [https://mostofarezaportfolio.netlify.app/](https://mostofarezaportfolio.netlify.app/)
+
+- 📝 I regularly write articles on [https://mostofarezaportfolio.netlify.app/](https://mostofarezaportfolio.netlify.app/)
+
+- 💬 Ask me about **React JS**
+
+- 📫 How to reach me **mostofa.reza3@gmail.com**
+
+- 📄 Know about my experiences [https://mostofarezaportfolio.netlify.app/](https://mostofarezaportfolio.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mostofa-reza3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mostofa-reza3" height="30" width="40" /></a>
