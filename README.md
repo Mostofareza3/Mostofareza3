@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react.js, next.js, redux, node.js, mongodb, postgres**
 
-- 📫 How to reach me <h3 align="center">**mostofa.reza3@gmal.com**</h3>
+<h3 align="center">- 📫 How to reach me **mostofa.reza3@gmal.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
