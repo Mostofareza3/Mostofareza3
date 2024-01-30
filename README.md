@@ -12,7 +12,8 @@
 - 💬 Ask me about **react.js, next.js, redux, node.js, mongodb, postgres**
 
 
-<h3 align="center">[Portfolio](https://developer-reza.vercel.app/)</h3>
+<h3 align="center">Portfolio - (https://developer-reza.vercel.app/)</h3>
+<h3 align="center">Email - (mostofa.reza3@gmail.com)</h3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
